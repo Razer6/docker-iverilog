@@ -1,4 +1,4 @@
-FROM nioshd/ubuntu-cppdev:latest
+FROM nioshd/ubuntu-python3dev:latest
 
 LABEL maintainer Robert Schilling <robert.schilling@iaik.tugraz.at>
 
